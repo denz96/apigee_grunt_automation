@@ -1,23 +1,23 @@
 {
-  "name": "grunt-apigee-kvm-export",
-  "description": "Exports Apigee Edge KVM entries to a directory.",
-  "version": "0.1.1",
-  "homepage": "https://github.com/grunt-apigee/grunt-apigee-kvm-export",
+  "name": "apigee_grunt_automation",
+  "description": "Import/Export KVMs, Cache and Target servers",
+  "version": "0.1.0",
+  "homepage": "https://github.com/denz96/apigee_grunt_automation",
   "author": {
-    "name": "dzuluaga",
-    "email": "dfzuluaga@apigee.com"
+    "name": "denz",
+    "email": "dennisdolfo237@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/grunt-apigee/grunt-apigee-kvm-export.git"
+    "url": "https://github.com/denz96/apigee_grunt_automation.git"
   },
   "bugs": {
-    "url": "https://github.com/grunt-apigee/grunt-apigee-kvm-export/issues"
+    "url": "https://github.com/denz96/apigee_grunt_automation/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/grunt-apigee/grunt-apigee-kvm-export/blob/master/LICENSE-MIT"
+      "url": "https://github.com/denz96/apigee_grunt_automation/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
