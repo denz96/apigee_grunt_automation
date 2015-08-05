@@ -1,0 +1,58 @@
+{
+  "name": "apigee_impexp",
+  "version": "0.0.1",
+  "description": "A script ",
+  "main": "lib/apigee-sdk-mgmt-api.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzuluaga/apigee-sdk-mgmt-api.git"
+  },
+  "keywords": [
+    "Apigee",
+    "Management",
+    "API",
+    "SDK",
+    "Grunt.js",
+    "Deploy"
+  ],
+  "author": {
+    "name": "Diego Zuluaga"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dzuluaga/apigee-sdk-mgmt-api/issues"
+  },
+  "homepage": "https://github.com/dzuluaga/apigee-sdk-mgmt-api",
+  "devDependencies": {
+    "mocha": "",
+    "request": "^2.42.0",
+    "should": ""
+  },
+  "dependencies": {
+    "curl-cmd": "0.0.0"
+  },
+  "gitHead": "8cfe293685d6971c5008923e757c75b5a922656a",
+  "_id": "apigee-sdk-mgmt-api@1.2.1",
+  "scripts": {},
+  "_shasum": "977eb1cbedf666dccca91d2d1fd0d5fc4ac6e9e5",
+  "_from": "apigee-sdk-mgmt-api@*",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "name": "dzuluaga",
+    "email": "dfzuluaga@gmail.com"
+  },
+  "dist": {
+    "shasum": "977eb1cbedf666dccca91d2d1fd0d5fc4ac6e9e5",
+    "tarball": "http://registry.npmjs.org/apigee-sdk-mgmt-api/-/apigee-sdk-mgmt-api-1.2.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "dzuluaga",
+      "email": "dfzuluaga@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/apigee-sdk-mgmt-api/-/apigee-sdk-mgmt-api-1.2.1.tgz",
+  "readme": "ERROR: No README data found!"
+}

@@ -10,7 +10,7 @@
 var request = require('request');
 var async = require('async');
 var curl = require('curl-cmd');
-var apigeeSdk = require('apigee-sdk-mgmt-api');
+var apigeeSdk = require('apigee_impexp');
 
 module.exports = function(grunt) {
 

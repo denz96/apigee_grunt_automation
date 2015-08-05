@@ -27,7 +27,7 @@
     "test": "grunt test"
   },
   "devDependencies": {
-    "apigee-sdk-mgmt-api": "^1.2.1",
+    "apigee-impexp-package": "^1.0.0",
     "grunt": "~0.4.5",
     "grunt-contrib-clean": "^0.5.0",
     "grunt-contrib-jshint": "^0.9.2",
@@ -40,6 +40,7 @@
     "gruntplugin"
   ],
   "dependencies": {
+    "apigee-impexp-package": "^1.0.0",
     "async": "^0.9.0",
     "lodash": "^3.7.0"
   }
