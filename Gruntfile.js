@@ -216,28 +216,28 @@ module.exports = function(grunt) {
         options: {
           type: "env"
         },
-        files: [{src: ['env-scripts/resources/global/cache/*.json']},
+        files: [{src: ['../env-scripts/resources/global/cache/*.json']},
         ]
       },
       "pizzahut-prod-prod" : {
         options: {
           type: "env"
         },
-        files: [{src: ['env-scripts/resources/global/cache/*.json']},
+        files: [{src: ['../env-scripts/resources/global/cache/*.json']},
         ]
       },
       "dengran-test" : {
         options: {
           type: "env"
         },
-        files: [{src: ['env-scripts/resources/global/cache/*.json']},
+        files: [{src: ['../env-scripts/resources/global/cache/*.json']},
         ]
       },
       "dengran-prod" : {
         options: {
           type: "env"
         },
-        files: [{src: ['env-scripts/resources/global/cache/*.json']},
+        files: [{src: ['../env-scripts/resources/global/cache/*.json']},
         ]
       }
     },
