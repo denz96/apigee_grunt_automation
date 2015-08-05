@@ -7,7 +7,7 @@
  */
 
 'use strict';
-var apigee = require('apigee_impexp'),
+var apigee = require('apigee-impexp-package'),
     async = require('async'),
     _ = require('lodash');
 
